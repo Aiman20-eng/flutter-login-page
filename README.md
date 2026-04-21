@@ -5,4 +5,4 @@ Aiman Adnan Sultan
 
 ## 📸 Output
 
-![Login Screen](assets/login.png.png)
+![Login Screen](assets/login.png)
